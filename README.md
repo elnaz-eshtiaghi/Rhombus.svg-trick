@@ -1,8 +1,8 @@
-# Accordion-trick-rhombus
+# Rhombus.svg-trick
 **If you have a lot of information to display on your site, why don't you use my project**
 
 ![Screenshot_2023_10_31-10](https://github.com/elnaz-eshtiaghi/Rhombus/assets/146030206/76a8a292-1054-4dab-bbc2-71b501b3403d)
-- [Demo Project]( https://elnaz-eshtiaghi.github.io/Rhombus/)
+- [Demo Project]( https://elnaz-eshtiaghi.github.io/Rhombus.svg-trick/)
 
 - Developed by elnaz eshtiaghi
 
